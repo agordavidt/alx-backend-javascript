@@ -15,14 +15,14 @@ interface Student {
 const firstStudent: Student = {
 	firstName: "David",
 	lastName: "Agor",
-	age: 97,
+	age: 17,
 	location: "Lagos"
 }
 
 const secondStudent: Student = {
 	firstName: "Williams",
 	lastName: "Ezekiel",
-	age: 79,
+	age: 19,
 	location: "Abuja"
 }
 
